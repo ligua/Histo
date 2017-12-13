@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-12-13T22:14:56</date>
+  <millis>1513199696475</millis>
+  <sequence>0</sequence>
+  <logger>kvmLogger2</logger>
+  <level>INFO</level>
+  <class>asl2.MyLogger4</class>
+  <method>run</method>
+  <thread>10</thread>
+  <message>2484.0 1.0 1.0 9046851390 12420 1484824048 12420 2554309886 12420 15614 12420 4784 4786 4785 0</message>
+</record>
+<record>
+  <date>2017-12-13T22:15:02</date>
+  <millis>1513199702269</millis>
+  <sequence>1</sequence>
+  <logger>kvmLogger2</logger>
+  <level>INFO</level>
+  <class>asl2.MyLogger4</class>
+  <method>run</method>
+  <thread>10</thread>
+  <message>3304.0 1.0 1.0 10752866601 18514 2048888972 18542 3182112318 18553 22203 18553 6322 6323 6322 0</message>
+</record>
+<record>
+  <date>2017-12-13T22:15:08</date>
+  <millis>1513199708460</millis>
+  <sequence>2</sequence>
+  <logger>kvmLogger2</logger>
+  <level>INFO</level>
+  <class>asl2.MyLogger4</class>
+  <method>run</method>
+  <thread>10</thread>
+  <message>4255.8 1.0 1.0 10721383974 23729 2328729439 23701 3582522847 23690 26451 23690 8343 8347 8341 0</message>
+</record>
+<record>
+  <date>2017-12-13T22:15:14</date>
+  <millis>1513199714959</millis>
+  <sequence>3</sequence>
+  <logger>kvmLogger2</logger>
+  <level>INFO</level>
+  <class>asl2.MyLogger4</class>
+  <method>run</method>
+  <thread>10</thread>
+  <message>4258.4 1.0 1.0 11591305781 25050 2459503653 25053 3729496254 25054 28019 25057 8350 8349 8352 0</message>
+</record>
+<record>
+  <date>2017-12-13T22:15:21</date>
+  <millis>1513199721162</millis>
+  <sequence>4</sequence>
+  <logger>kvmLogger2</logger>
+  <level>INFO</level>
+  <class>asl2.MyLogger4</class>
+  <method>run</method>
+  <thread>10</thread>
+  <message>4239.2 1.0 1.0 12119102998 24961 2403414547 24969 3762364582 24968 27502 24972 7573 7573 7573 0</message>
+</record>
+<record>
+  <date>2017-12-13T22:15:27</date>
+  <millis>1513199727190</millis>
+  <sequence>5</sequence>
+  <logger>kvmLogger2</logger>
+  <level>INFO</level>
+  <class>asl2.MyLogger4</class>
+  <method>run</method>
+  <thread>10</thread>
+  <message>4227.6 1.0 1.0 11465799495 22662 2229759519 22651 3759815847 22651 24456 22644 7715 7716 7716 0</message>
+</record>
+<record>
+  <date>2017-12-13T22:15:33</date>
+  <millis>1513199733098</millis>
+  <sequence>6</sequence>
+  <logger>kvmLogger2</logger>
+  <level>INFO</level>
+  <class>asl2.MyLogger4</class>
+  <method>run</method>
+  <thread>10</thread>
+  <message>3975.2 1.0 1.0 11201254117 21889 2508595528 21892 3626712472 21894 24045 21895 7106 7107 7107 0</message>
+</record>
+</log>
